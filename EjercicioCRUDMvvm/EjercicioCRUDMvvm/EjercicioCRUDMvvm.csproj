@@ -70,10 +70,19 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="Views\ProveedoresFormView.xaml">
+	  <Compile Update="Views\ProvedoresFormView.xaml.cs">
+	    <DependentUpon>ProvedoresFormView.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Views\ProvedoresMainView.xaml.cs">
+	    <DependentUpon>ProvedoresMainView.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Views\ProvedoresFormView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Views\ProveedoresMainView.xaml">
+	  <MauiXaml Update="Views\ProvedoresMainView.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AreaCirculoAppMvvm</name>
+    </assembly>
+    <members>
+        <member name="T:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.Radio">
+            <inheritdoc cref="F:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.radio"/>
+        </member>
+        <member name="P:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.Resultado">
+            <inheritdoc cref="F:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.resultado"/>
+        </member>
+        <member name="F:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.calcularCommand">
+            <summary>The backing field for <see cref="P:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.CalcularCommand"/>.</summary>
+        </member>
+        <member name="P:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.CalcularCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.Calcular"/>.</summary>
+        </member>
+        <member name="F:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.limpiarCommand">
+            <summary>The backing field for <see cref="P:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.LimpiarCommand"/>.</summary>
+        </member>
+        <member name="P:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.LimpiarCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:AreaCirculoAppMvvm.ViewModels.AreaCirculoViewModel.Limpiar"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Radio">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Radio" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Resultado">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Resultado" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Radio">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Radio" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Resultado">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Resultado" generated properties.</summary>
+        </member>
+    </members>
+</doc>

@@ -46,14 +46,14 @@ build_metadata.AdditionalFiles.ManifestResourceName = EjercicioCRUDMvvm.Resource
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/curacao/Documents/Estudio/Project/Programacion2_S8S9/EjercicioCRUDMvvm/EjercicioCRUDMvvm/Views/ProveedoresFormView.xaml]
+[C:/Users/curacao/Documents/Estudio/Project/Programacion2_S8S9/EjercicioCRUDMvvm/EjercicioCRUDMvvm/Views/ProvedoresFormView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = EjercicioCRUDMvvm.Views.ProveedoresFormView.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\ProveedoresFormView.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\ProveedoresFormView.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EjercicioCRUDMvvm.Views.ProvedoresFormView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProvedoresFormView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProvedoresFormView.xaml
 
-[C:/Users/curacao/Documents/Estudio/Project/Programacion2_S8S9/EjercicioCRUDMvvm/EjercicioCRUDMvvm/Views/ProveedoresMainView.xaml]
+[C:/Users/curacao/Documents/Estudio/Project/Programacion2_S8S9/EjercicioCRUDMvvm/EjercicioCRUDMvvm/Views/ProvedoresMainView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = EjercicioCRUDMvvm.Views.ProveedoresMainView.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\ProveedoresMainView.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\ProveedoresMainView.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EjercicioCRUDMvvm.Views.ProvedoresMainView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProvedoresMainView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProvedoresMainView.xaml

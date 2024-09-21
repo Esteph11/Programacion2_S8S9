@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programacion2_s8s9\\ejerciciocrudmvvm\\ejerciciocrudmvvm\\models\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|solutionrelative:ejerciciocrudmvvm\\models\\proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programacion2_s8s9\\ejerciciocrudmvvm\\ejerciciocrudmvvm\\viewmodels\\proveedoresformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|solutionrelative:ejerciciocrudmvvm\\viewmodels\\proveedoresformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programacion2_s8s9\\ejerciciocrudmvvm\\ejerciciocrudmvvm\\services\\proveedoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|solutionrelative:ejerciciocrudmvvm\\services\\proveedoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programacion2_s8s9\\ejerciciocrudmvvm\\ejerciciocrudmvvm\\views\\proveedoresmainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|solutionrelative:ejerciciocrudmvvm\\views\\proveedoresmainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programacion2_s8s9\\ejerciciocrudmvvm\\ejerciciocrudmvvm\\views\\proveedoresformview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|solutionrelative:ejerciciocrudmvvm\\views\\proveedoresformview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programacion2_s8s9\\ejerciciocrudmvvm\\ejerciciocrudmvvm\\viewmodels\\proveedoresmainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|solutionrelative:ejerciciocrudmvvm\\viewmodels\\proveedoresmainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|c:\\users\\curacao\\documents\\estudio\\project\\programacion2_s8s9\\ejerciciocrudmvvm\\ejerciciocrudmvvm\\ejerciciocrudmvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7D37759-5C13-4A45-B586-FDD8E5669911}|EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj|solutionrelative:ejerciciocrudmvvm\\ejerciciocrudmvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProveedoresMainView.xaml",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\Views\\ProveedoresMainView.xaml",
+              "RelativeDocumentMoniker": "EjercicioCRUDMvvm\\Views\\ProveedoresMainView.xaml",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\Views\\ProveedoresMainView.xaml",
+              "RelativeToolTip": "EjercicioCRUDMvvm\\Views\\ProveedoresMainView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T04:10:10.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProveedoresFormView.xaml",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\Views\\ProveedoresFormView.xaml",
+              "RelativeDocumentMoniker": "EjercicioCRUDMvvm\\Views\\ProveedoresFormView.xaml",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\Views\\ProveedoresFormView.xaml",
+              "RelativeToolTip": "EjercicioCRUDMvvm\\Views\\ProveedoresFormView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-21T04:09:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProveedoresMainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\ViewModels\\ProveedoresMainViewModel.cs",
+              "RelativeDocumentMoniker": "EjercicioCRUDMvvm\\ViewModels\\ProveedoresMainViewModel.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\ViewModels\\ProveedoresMainViewModel.cs",
+              "RelativeToolTip": "EjercicioCRUDMvvm\\ViewModels\\ProveedoresMainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:07:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProveedoresFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\ViewModels\\ProveedoresFormViewModel.cs",
+              "RelativeDocumentMoniker": "EjercicioCRUDMvvm\\ViewModels\\ProveedoresFormViewModel.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\ViewModels\\ProveedoresFormViewModel.cs",
+              "RelativeToolTip": "EjercicioCRUDMvvm\\ViewModels\\ProveedoresFormViewModel.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwFwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:07:07.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedoresService.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\Services\\ProveedoresService.cs",
+              "RelativeDocumentMoniker": "EjercicioCRUDMvvm\\Services\\ProveedoresService.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\Services\\ProveedoresService.cs",
+              "RelativeToolTip": "EjercicioCRUDMvvm\\Services\\ProveedoresService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:06:44.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\Models\\Proveedores.cs",
+              "RelativeDocumentMoniker": "EjercicioCRUDMvvm\\Models\\Proveedores.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\Models\\Proveedores.cs",
+              "RelativeToolTip": "EjercicioCRUDMvvm\\Models\\Proveedores.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:06:19.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EjercicioCRUDMvvm",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj",
+              "RelativeDocumentMoniker": "EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Programacion2_S8S9\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj",
+              "RelativeToolTip": "EjercicioCRUDMvvm\\EjercicioCRUDMvvm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T04:03:55.29Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
